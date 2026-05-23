@@ -4,39 +4,39 @@ function FeatureList() {
 
   const data = [
     {
-      icon: "bi-collection",
-      title: "Fresh new layout",
-      desc: "With Bootstrap 5, we've created a fresh new layout.",
+      icon: "bi-book",
+      title: "Latest Manga Releases",
+      desc: "Explore newly released manga volumes from top anime series worldwide.",
     },
+  
+    {
+      icon: "bi-bag",
+      title: "Anime Merchandise",
+      desc: "Shop official anime products, accessories, posters, and collectibles.",
+    },
+  
+    {
+      icon: "bi-joystick",
+      title: "Gaming & Anime",
+      desc: "Find exciting anime games and exclusive limited edition content.",
+    },  
 
     {
-      icon: "bi-cloud-download",
-      title: "Free to download",
-      desc: "Start Bootstrap has a collection of free templates.",
+      icon: "bi-stars",
+      title: "Premium Figures",
+      desc: "Collect beautifully designed anime figures from popular franchises.",
     },
-
+  
     {
-      icon: "bi-card-text",
-      title: "Jumbotron hero header",
-      desc: "The heroic part of this template is the hero header.",
+      icon: "bi-camera-reels",
+      title: "Streaming Updates",
+      desc: "Stay updated with the latest anime episodes and movie releases.",
     },
-
+  
     {
-      icon: "bi-bootstrap",
-      title: "Feature boxes",
-      desc: "We created feature boxes using Bootstrap icons.",
-    },
-
-    {
-      icon: "bi-code",
-      title: "Simple clean code",
-      desc: "We keep our dependencies updated.",
-    },
-
-    {
-      icon: "bi-patch-check",
-      title: "A name you trust",
-      desc: "Start Bootstrap has been the leader since 2013.",
+      icon: "bi-heart",
+      title: "Community Favorites",
+      desc: "See what anime fans around the world are loving the most this season.",
     },
   ];
 

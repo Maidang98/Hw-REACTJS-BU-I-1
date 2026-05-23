@@ -3,7 +3,7 @@ function Header() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4">
         <div className="container">
           <a className="navbar-brand" href="#">
-            Start Bootstrap
+          Anime World
           </a>
   
           <button
